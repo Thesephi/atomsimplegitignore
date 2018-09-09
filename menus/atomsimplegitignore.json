@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atomsimplegitignore",
+        "command": "atomsimplegitignore:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atomsimplegitignore",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atomsimplegitignore:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
