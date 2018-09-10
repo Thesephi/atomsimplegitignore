@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atomsimplegitignore",
-        "command": "atomsimplegitignore:toggle"
+        "label": "Create .gitignore file",
+        "command": "simplegitignore:write-gitignore"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atomsimplegitignore",
+          "label": "simplegitignore",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "atomsimplegitignore:toggle"
+              "label": "Create .gitignore file",
+              "command": "simplegitignore:write-gitignore"
             }
           ]
         }

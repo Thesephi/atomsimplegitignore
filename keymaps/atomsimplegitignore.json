@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atomsimplegitignore:toggle"
+    "ctrl-alt-g-i": "simplegitignore:write-gitignore"
   }
 }

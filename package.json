@@ -1,14 +1,16 @@
 {
-  "name": "atomsimplegitignore",
+  "name": "simplegitignore",
   "main": "./lib/atomsimplegitignore",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Generating your boilerplate .gitignore the dead simple way",
   "keywords": [
+    "simple",
+    "gitignore"
   ],
   "activationCommands": {
-    "atom-workspace": "atomsimplegitignore:toggle"
+    "atom-workspace": "simplegitignore:write-gitignore"
   },
-  "repository": "https://github.com/atom/atomsimplegitignore",
+  "repository": "https://github.com/Thesephi/atomsimplegitignore.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
