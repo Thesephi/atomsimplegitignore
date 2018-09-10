@@ -8,20 +8,21 @@
       }
     }
   },
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generating your boilerplate .gitignore the dead simple way",
   "keywords": [
     "simple",
     "gitignore"
   ],
   "activationCommands": {
-    "atom-workspace": ["simple-gitignore:write-gitignore"]
+    "atom-workspace": [
+      "simple-gitignore:write-gitignore"
+    ]
   },
   "repository": "https://github.com/Thesephi/atomsimplegitignore.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
