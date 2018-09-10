@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Create .gitignore file",
-        "command": "simplegitignore:write-gitignore"
+        "command": "simple-gitignore:write-gitignore"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "simplegitignore",
+          "label": "Simple Gitignore",
           "submenu": [
             {
               "label": "Create .gitignore file",
-              "command": "simplegitignore:write-gitignore"
+              "command": "simple-gitignore:write-gitignore"
             }
           ]
         }
