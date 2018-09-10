@@ -1,6 +1,13 @@
 {
   "name": "simplegitignore",
   "main": "./lib/simplegitignore",
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "refStatusBar"
+      }
+    }
+  },
   "version": "0.0.0",
   "description": "Generating your boilerplate .gitignore the dead simple way",
   "keywords": [
