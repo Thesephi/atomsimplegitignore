@@ -11,8 +11,9 @@
   "version": "0.1.0",
   "description": "Generating your boilerplate .gitignore the dead simple way",
   "keywords": [
-    "simple",
-    "gitignore"
+    "gitignore",
+    "boilerplate",
+    "generator"
   ],
   "activationCommands": {
     "atom-workspace": [
