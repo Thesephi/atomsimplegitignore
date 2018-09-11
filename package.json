@@ -8,7 +8,7 @@
       }
     }
   },
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Generating your boilerplate .gitignore the dead simple way",
   "keywords": [
     "gitignore",
