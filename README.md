@@ -1,6 +1,4 @@
-Put a boilerplate `.gitignore` file into your current workspace home folder
-
-# Please be alert: currently this only works for Mac users
+# Put a boilerplate `.gitignore` file into your current workspace home folder
 
 ## Features
 
@@ -10,7 +8,7 @@ Behind the curtain, [simplegitignore npm module](https://www.npmjs.com/package/s
 
 ## How to use
 
-Open the command prompt (`Cmd` + `Shift` + `P`), then enter `simplegitignore`
+Open the Command Palette (`Cmd` + `Shift` + `P`), then enter `simplegitignore`
 
 ## Known Issues
 
